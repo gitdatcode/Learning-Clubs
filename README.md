@@ -7,4 +7,4 @@ Come learn cool new things with other $(datcode) members. Head on over to the [S
 
 ## What We're Learning
 
-* [Graph Databases](https://paper.dropbox.com/doc/Graph-Database-Learning-Club-9Ccx03zFpmKmTlhAjzKI5) -- learn how to traverse data in ways that you didn't think were possible. The first meeting is Thursday, October 26 2017. Come prepared by watching the prerequisite materials. See you there!
+* [Graph Databases](https://github.com/gitdatcode/Learning-Clubs/tree/master/Graph%20Databases) -- learn how to traverse data in ways that you didn't think were possible. The first meeting is Thursday, October 26 2017. Come prepared by watching the prerequisite materials. See you there!
